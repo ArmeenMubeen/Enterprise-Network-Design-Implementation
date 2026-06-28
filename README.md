@@ -16,9 +16,9 @@ This project presents the design and implementation of a complete **Enterprise N
 
 > 
 
-```
+
 ![Enterprise Network Topology](topology.png)
-```
+
 
 ---
 
